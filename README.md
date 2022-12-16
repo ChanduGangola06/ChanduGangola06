@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChanduGangola06
-- 👀 I’m interested in Front End and Flutter Development
+- 👀 I’m Flutter Developeer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
